@@ -1,0 +1,49 @@
+body {
+ 
+    background-color: wheat;
+
+
+}
+
+
+header.cabecera{
+
+    background-color: deepskyblue;
+    
+    text-align: center;
+
+    color: orange;
+}
+
+
+
+article.texto{
+
+    
+    background-color: white;
+  
+
+
+}
+
+blockquote.texto{
+
+    background-color: darkturquoise;
+
+
+
+}
+
+image.empresa{
+
+    text-align: right;
+
+
+}
+
+article.servicios{
+
+    background-color: yellow;
+
+    color: blue;
+}
