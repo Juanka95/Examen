@@ -36,8 +36,13 @@ blockquote.texto{
 
 image.empresa{
 
-    text-align: right;
+    float:right;
 
+}
+
+image.empresa2{
+
+    float:right;
 
 }
 
